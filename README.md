@@ -1,0 +1,2 @@
+# solar
+solar_monitoring
